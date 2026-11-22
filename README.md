@@ -1,6 +1,6 @@
-# QuizForge
+# QuizForge — CS Quiz
 
-A browser-based Computer Science quiz project.
+An interactive browser-based quiz project for practising computer science concepts.
 
 ## Live Demo
 https://tanisha16-byte.github.io/QuizForge-CS-Quiz/
@@ -11,4 +11,7 @@ https://tanisha16-byte.github.io/QuizForge-CS-Quiz/
 - JavaScript
 
 ## Run Locally
-Open index.html in your browser.
+Clone the repository and open `index.html` in your browser.
+
+## Repository
+https://github.com/TANISHA16-BYTE/QuizForge-CS-Quiz
